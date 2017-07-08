@@ -1,6 +1,6 @@
 # ruby-challenges
 
-Dear intern to be hired:
+Dear developer to be hired:
 
 Please follow this steps:
 
